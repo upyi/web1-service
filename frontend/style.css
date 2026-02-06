@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  max-width: 400px;
+  margin: 80px auto;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  border: none;
+}
